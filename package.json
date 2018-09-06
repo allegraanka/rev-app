@@ -1,0 +1,29 @@
+{
+  "name": "rev-app",
+  "version": "1.0.0",
+  "description": "piano interface allowing publishers to revoke access from several users at once",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allegraanka/rev-app.git"
+  },
+  "keywords": [
+    "rev"
+  ],
+  "author": "Allegra Anka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allegraanka/rev-app/issues"
+  },
+  "homepage": "https://github.com/allegraanka/rev-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
